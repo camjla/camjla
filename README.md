@@ -1,4 +1,4 @@
-👋 ##HELLO(안녕하세요), I'm Camila! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+👋 ## HELLO(안녕하세요), I'm Camila! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 🎈 I have 19 years and live in São Paulo.
 
@@ -6,14 +6,14 @@
 
 🖥️ Currently looking for an internship in the area of front or back end development 
 
-##📖 I’m currently learning this language and tools<br>
-<code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> </code>     
+## 📖 LANGUAGES AND TOOLS<br>
+<code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "30" width="40"/> </code>     
 <code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/></code> 
 <code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></code> 
 <code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></code> 
  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></code> 
   
- ##About ME
+ ## About ME
   
 📚 I like study, my English and Spanish is basic/ technic because I study alone in courses with Kultivi and youtube videos.
 I have desire to study Korean, because I like so much the culture, musics, k-dramas and my korean friends. I hope someday visit this country.
