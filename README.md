@@ -22,8 +22,10 @@ I have desire to study Korean, because I like so much the culture, musics, k-dra
 
 😁 Fun Facts: I like to dance, watch series, preferably k-dramas, read novels that take me out of reality and always be getting to know new hobbies and places.
  
-📫 How to reach me [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/camjla)
+📫 How to reach me 
 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/camjla)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/camila-tronco/) 
 
 
