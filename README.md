@@ -4,7 +4,7 @@
 
 🏫 I'm studying Information System in FAM- Faculdade das Américas.
 
-🖥️ Currently looking for an internship in the area of front or back end development 
+🖥️ Currently looking for an internship in the area of front/back end development , QA and IT Governance
 
 ## 📖 LANGUAGES AND TOOLS<br>
    
