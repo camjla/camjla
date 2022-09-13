@@ -4,7 +4,9 @@
 
 🏫 I'm studying Information System in FAM- Faculdade das Américas.
 
-🖥️ Currently looking for an internship in the area of front/back end development , QA and IT Governance
+🖥️  I am currently working as a IT intern stage in Iguatemi S.A
+
+:raising_hand_woman:	I have interesting in the area of QA,  IT governance and front and backend
 
 ## 📖 LANGUAGES AND TOOLS<br>
    
@@ -15,9 +17,9 @@
 <code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40"/></code>                   
 
   
- ## About ME
+ ## About ME :v:
   
-📚 I like study, my English and Spanish is basic/ technic because I study alone in courses with Kultivi and youtube videos.
+📚 I like study, my English and Spanish is intermediate and basic respectively because I study alone in courses with Kultivi and youtube videos.
 I have desire to study Korean, because I like so much the culture, musics, k-dramas and my korean friends. I hope someday visit this country.
 
 🌻 I want to be able to positively impact people with my work.
