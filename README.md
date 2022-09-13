@@ -4,7 +4,7 @@
 
 🏫 I'm studying Information System in FAM- Faculdade das Américas.
 
-🖥️  I am currently working as a IT intern stage in Iguatemi S.A
+🖥️  I am currently working as a IT intern in Iguatemi S.A
 
 :raising_hand_woman:	I have interesting in the area of QA,  IT governance and front and backend
 
