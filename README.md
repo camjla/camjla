@@ -6,7 +6,7 @@
 
 🖥️  I am currently working as a IT intern in Iguatemi S.A
 
-:raising_hand_woman:	I have interesting in the area of QA,  IT governance and front and backend
+:raising_hand_woman:	I have interesting in the area de arquitetura e front-end
 
 ## 📖 LANGUAGES AND TOOLS<br>
    
