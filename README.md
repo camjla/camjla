@@ -6,21 +6,27 @@
 
 🖥️  I am currently working as a IT intern in Iguatemi S.A
 
-:raising_hand_woman:	I have interesting in the area de arquitetura e front-end
+:raising_hand_woman:	I am interested in growing in front-end and UX/UI areas.
 
-## 📖 LANGUAGES AND TOOLS<br>
+## 📖 MY HARD SKILLS<br>
    
 <code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/></code> 
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40"/></code> 
 <code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="40"/></code>
 <code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "30" width="30"/> </code>  
-  
- ## About ME :v:
-  
-📚 I like study, my English and Spanish is intermediate and basic respectively because I study alone in courses with Kultivi and youtube videos.
-I have desire to study Korean, because I like so much the culture, musics, k-dramas and my korean friends. I hope someday visit this country.
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" /> </code>
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30"  /></code>
+## 📖 MY SOFT SKILLS<br>  
+🙆communicative<br>
+🙆proactive<br>
+🙆punctuality<br>
+🙆autonomous
 
-🌻 I want to be able to positively impact people with my work.
+ ## About ME :v:
+ 
+ 🏁 Results-oriented hands-on professional, always looking to make things happen in a conscious, practical and planned way.
+  
+📚 English: B1 || Spanish: A2
 
 😁 Fun Facts: I like to dance, watch series, preferably k-dramas, read novels that take me out of reality and always be getting to know new hobbies and places.
  
