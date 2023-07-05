@@ -25,7 +25,7 @@
 
 ## 📫 Contact
 
-📧 [camila.tronco@hotmail.com](mailto:camila.tronco@hotmail.com) 
+📧 [camila.tronco@hotmail.com](mailto:camila.tronco@hotmail.com) \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camila-tronco)
 
 ## 💻 Projetos destacados
