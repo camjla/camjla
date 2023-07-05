@@ -25,7 +25,8 @@
 
 ## 📫 Contact
 
-📧 [your-email@example.com](mailto:camila.tronco@hotmail.com) 
+📧 [camila.tronco@hotmail.com](mailto:camila.tronco@hotmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camila-tronco)
 
 ## 💻 Projetos destacados
 📎
@@ -36,7 +37,11 @@
 This project is licensed under the [MIT License](LICENSE).
 
 Thanks you for visiting me 💛
+# [Your Name]
 
+
+
+#
 <!---
 camjla/camjla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
