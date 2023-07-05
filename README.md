@@ -36,12 +36,8 @@
 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
-Thanks you for visiting me 💛
-# [Your Name]
+## Thanks you for visiting me 💛
 
-
-
-#
 <!---
 camjla/camjla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
