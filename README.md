@@ -12,7 +12,7 @@
 
 ## 💼 Last experience
 
-💼 Internships: Iguatemi S.A(2022-2023)  \
+💼 Internship: Iguatemi S.A(2022-2023)  \
 🔍 Discovered my passion for front-end and UX-UI through a job rotation \
 📚 Learned a lot and honed my technical and creative skills
 
@@ -20,7 +20,7 @@
 
 🌟 I believe in the power of collaboration and teamwork \
 💪 Ready to overcome challenges, including language barriers \
-🌍 Value a multifunctional approach to achieve exceptional results
+🌍 Value a multifunctional approach to achieve exceptional results \
 👥 I am open to collaborations and suggestions to enhance my projects. Feel free to open issues, submit pull requests, or get in touch with me to discuss ideas.
 
 ## 📫 Contact
