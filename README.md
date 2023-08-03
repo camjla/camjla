@@ -6,7 +6,7 @@
 
 ## 🚀 Skills
 
-🔧 Technologies: Typescript, Javascript, HTML, CSS, Figma, React Js, Nextjs, User experience and User interface  \
+🔧 Technologies: Typescript, Javascript, HTML, CSS, Figma, React Js, User experience and User interface  \
 🗃️ Verson control: Git, BitBucket \
 🌎 Languages: English (Intermediate), Spanish (Basic-Intermediate)
 
