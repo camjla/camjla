@@ -2,17 +2,17 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a 20-year-old student pursuing a degree in Information Systems at FAM. I'm seeking opportunities as a junior developer in UX-UI or front-end. I'm passionate about creating exceptional digital experiences that exceed user expectations. 💻
+🎓 I'm a 21-year-old student pursuing a degree in Information Systems at FAM. I'm seeking opportunities as a junior developer in UX-UI or front-end. I'm passionate about creating exceptional digital experiences that exceed user expectations. 💻
 
 ## 🚀 Skills
 
-🔧 Technologies: Typescript, Javascript, HTML, CSS, Figma, React Js, User experience and User interface  \
+🔧 Technologies: Typescript, Javascript, HTML, CSS, Figma, React Js, Notion,  User experience and User interface  \
 🗃️ Verson control: Git, BitBucket \
 🌎 Languages: English (Intermediate), Spanish (Basic-Intermediate)
 
 ## 💼 Last experience
 
-💼 Internship: Iguatemi S.A(2022-2023)  \
+💼  UX Junior: AGL Solutions (2023- moment) \
 🔍 Discovered my passion for front-end and UX-UI through a job rotation \
 📚 Learned a lot and honed my technical and creative skills
 
